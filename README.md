@@ -1,0 +1,4 @@
+pliki
+=====
+
+pliki w chmurze
